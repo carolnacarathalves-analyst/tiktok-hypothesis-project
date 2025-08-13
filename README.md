@@ -12,12 +12,12 @@ To determine whether verified TikTok accounts receive significantly more video v
 - Statistical Testing (Two-sample t-test)
 
 ## 📘 Notebook
-
+[Jupyter Notebook] (https://github.com/carolnacarathalves-analyst/tiktok-hypothesis-project/blob/main/Activity_Course%204%20TikTok%20project%20lab.ipynb)
 
 ## ✅ Key Results
 - Statistically significant difference in average video views between verified and unverified accounts
 - p-value: 2.6e-120
 
 ## 🔗 Certificate Program
-[Google Advanced Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+[Google Advanced Data Analytics Certificate] (https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 
